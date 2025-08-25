@@ -266,7 +266,7 @@ FROM
     view_uk_youtubers_2024;
 
 ```
-![total-row-count](assets/images/total-row-count.png)
+![total-row-count](asset/images/total-row-count.png)
 
 ## Column count check
 ### SQL query 
