@@ -2,7 +2,7 @@
 
 
 ![excel-sql-power bi](asset/images/kaggle_to_powerbi.gif)
-assets/images/view-query-result.png
+asset/images/view-query-result.png
 
 # Table of Content
 
