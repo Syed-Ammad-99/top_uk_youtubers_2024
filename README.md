@@ -238,8 +238,6 @@ SELECT CAST(SUBSTRING(NOMBRE,1,CHARINDEX ('@', NOMBRE)-1) AS varchar (100)) AS c
 FROM top_uk_youtubers_2024
 ```
 
-![create-view-query-sql](assets/images/view-query-result.png)
-
 # Testing 
 
 - What data quality and validation checks are you going to create?
@@ -258,7 +256,7 @@ FROM
     view_uk_youtubers_2024;
 
 ```
-![total-row-count](asset/images/total-row-count.png)
+![total-row-count](assest/images/1_row_count_check.png)
 
 ## Column count check
 ### SQL query 
@@ -275,7 +273,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024'
 ```
 ### Output 
-![total-column-count](assets/images/total-column-count.png)
+![total-column-count](assest/images/total-column-count.png)
 
 ## Data type check
 ### SQL query 
@@ -294,7 +292,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024';
 ```
 ### Output 
-![data-type](assets/images/data-types.png)
+![data-type](assest/images/data-types[1].png)
 
 ## Duplicate count check
 ### SQL query 
@@ -322,7 +320,7 @@ HAVING
 ```
 ### Output
 
-![duplicate-row](assets/images/duplicate-row.png)
+![duplicate-row](assest/images/duplicate-row[1].png)
 
 # Visualization 
 
@@ -331,7 +329,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](assets/images/image.png)
+![GIF of Power BI Dashboard](assest/images/image.png)
 
 This shows the Top UK Youtubers in 2024 so far. 
 
@@ -588,7 +586,7 @@ ORDER BY
 
 #### Output
 
-![Most subsc](assets/images/youtubers_with_the_most_subs.png)
+![Most subsc](assest/images/youtubers_with_the_most_subs.png)
 
 ### 2. Youtubers with the most videos uploaded
 
@@ -678,7 +676,7 @@ ORDER BY
 
 #### Output
 
-![Most videos](assets/images/youtubers_with_the_most_videos.png)
+![Most videos](assest/images/youtubers_with_the_most_videos.png)
 
 ### 3.  Youtubers with the most views 
 
@@ -771,7 +769,7 @@ ORDER BY
 
 #### Output
 
-![Most views](assets/images/youtubers_with_the_most_views.png)
+![Most views](assest/images/youtubers_with_the_most_views.png.png)
 
 
 
