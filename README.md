@@ -15,7 +15,7 @@
   - [Data Exploration](#data-exploration)
   - [Data Cleaning](#data-cleaning)
   - [Transform the Data](#transform-the-data)
-  - [Create the SQL View](#create-the-sql-view)
+  - [Create the SQL View](#create-view)
 - [Testing](#testing)
   - [Data Quality Tests](#data-quality-tests)
 - [Visualization](#visualization)
