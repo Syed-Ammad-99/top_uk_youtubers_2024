@@ -17,7 +17,7 @@
   - [Transform the Data](#transform-the-data)
   - [Create the SQL View](#create-view)
 - [Testing](#testing)
-  - [Data Quality Tests](#data-quality-tests)
+  - [Data Quality Tests](#Data-type-check)
 - [Visualization](#visualization)
   - [Results](#results)
   - [DAX Measures](#dax-measures)
@@ -27,8 +27,7 @@
   - [Discovery](#discovery)
 - [Recommendations](#recommendations)
   - [Potential ROI](#potential-roi)
-  - [Potential Courses of Actions](#potential-courses-of-actions)
-- [Conclusion](#conclusion)
+  - [Potential Courses of Actions](#action-plan)
 
 
 # Objective 
