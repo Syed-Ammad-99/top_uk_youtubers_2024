@@ -135,8 +135,6 @@ Some of the data visuals that may be appropriate in answering our questions incl
 5. Test the data with SQL
 6. Visualize the data in Power BI
 7. Generate the findings based on the insights
-8. Write the documentation + commentary
-9. Publish the data to GitHub Pages
 
 ### Data exploration
 
