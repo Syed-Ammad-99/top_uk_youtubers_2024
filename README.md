@@ -4,16 +4,6 @@
 ![excel-sql-power bi](asset/images/kaggle_to_powerbi.gif)
 asset/images/view-query-result.png
 
-# Table of Content
-
--  [Project 1](#Project-1)
-  -  [Subheader]()
--  [Project 2](#Project-2)
--  [Project 3](#Project-3)
-
-
-#Project-1
-
 ## Table of contents 
 
 - [Objective](#objective)
@@ -43,7 +33,7 @@ asset/images/view-query-result.png
 - [Conclusion](#conclusion)
 
 
-3# Objective 
+# Objective 
 
 - What is the key pain point? 
 
@@ -60,7 +50,7 @@ To create a dashboard that provides insights into the top UK YouTubers in 2024 t
 
 This will help the marketing team make informed decisions about which YouTubers to collaborate with for their marketing campaigns.
 
-3## User story 
+## User story 
 
 As the Head of Marketing, I want to use a dashboard that analyses YouTube channel data in the UK . 
 
