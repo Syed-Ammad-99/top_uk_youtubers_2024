@@ -108,7 +108,9 @@ Some of the data visuals that may be appropriate in answering our questions incl
 1. Table
 2. Treemap
 3. Scorecards
-4. Horizontal bar chart 
+4. Horizontal bar chart
+
+![Dashboard-Mockup](assets/images/dashboard_mockup.png)
 
 
 ### Tools 
