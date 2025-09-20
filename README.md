@@ -763,7 +763,7 @@ ORDER BY
 
 #### Output
 
-![Most views](assest/images/youtubers_with_the_most_views.png.png)
+![Most views](https://github.com/Syed-Ammad-99/top_uk_youtubers_2024/blob/main/assest/images/youtubers_with_the_most_views.png)
 
 
 
